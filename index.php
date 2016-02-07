@@ -11,16 +11,16 @@
     <img src="./images/Boyu.jpeg">
 
     <h2>Project 2 Title</h2>
-    <p>View: [link]</p>
-    <p>Github: [link]</P>
+    <p>View: <a href="">[link]</a></p>
+    <p>Github: <a href="">[link]</a></P>
 
     <h2>Project 3 Title</h2>
-    <p>View: [link]</p>
-    <p>Github: [link]</P>
+    <p>View: <a href="">[link]</a></p>
+    <p>Github: <a href="">[link]</a></P>
 
     <h2>Project 4 Title</h2>
-    <p>View: [link]</p>
-    <p>Github: [link]</P>
+    <p>View: <a href="">[link]</a></p>
+    <p>Github: <a href="">[link]</a></P>
   </body>
 
 </html>

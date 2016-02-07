@@ -5,3 +5,12 @@ body {
 img {
   width:720px;
 }
+
+a {
+  text-decoration: none;
+  color:black;
+}
+
+a:hover {
+  font-weight: bold;
+}
