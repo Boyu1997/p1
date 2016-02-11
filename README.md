@@ -8,7 +8,7 @@ A simple demonstration of working order.
 Plus a portfolio to present all the projects in this course.
 
 ## Demo
-<https://http://v.youku.com/v_show/id_XMTQ2OTg1Njc0OA==.html>
+<http://v.youku.com/v_show/id_XMTQ2OTg1Njc0OA==.html>
 
 ## Details for teaching team
 NONE
