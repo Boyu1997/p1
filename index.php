@@ -6,9 +6,9 @@
   </head>
 
   <body>
-
     <h1>Jiang Boyu</h1>
     <img src="./images/Boyu.jpeg">
+    <p></p>
 
     <h2>Project 2 Title</h2>
     <p>View: <a href="">[link]</a></p>
